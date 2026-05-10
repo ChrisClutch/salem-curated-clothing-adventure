@@ -1,7 +1,7 @@
 [
   {
     "name": "Goodwill - Lancaster",
-    "address": "3535 Lancaster Dr NE, Salem, OR",
+    "address": "3535 Lancaster Dr NE, Salem, OR 97305",
     "category": "Thrift",
     "lat": 44.9729,
     "lng": -123.0241,
@@ -10,7 +10,7 @@
   },
   {
     "name": "Goodwill - West Salem",
-    "address": "585 Edgewater St NW, Salem, OR",
+    "address": "585 Edgewater St NW, Salem, OR 97304",
     "category": "Thrift",
     "lat": 44.9443,
     "lng": -123.0602,
@@ -18,30 +18,345 @@
     "image": "https://source.unsplash.com/800x450/?thrift,shop"
   },
   {
+    "name": "Goodwill - South Commercial",
+    "address": "3030 Commercial St SE, Salem, OR 97302",
+    "category": "Thrift",
+    "lat": 44.9094,
+    "lng": -123.0367,
+    "website": "https://meetgoodwill.org/",
+    "image": "https://source.unsplash.com/800x450/?goodwill"
+  },
+  {
+    "name": "Goodwill - Portland Rd",
+    "address": "3235 Portland Rd NE, Salem, OR 97301",
+    "category": "Thrift",
+    "lat": 44.9772,
+    "lng": -123.0162,
+    "website": "https://meetgoodwill.org/",
+    "image": "https://source.unsplash.com/800x450/?secondhand"
+  },
+  {
+    "name": "Goodwill Outlet (Bins)",
+    "address": "3060 Portland Rd NE, Salem, OR 97301",
+    "category": "Thrift",
+    "lat": 44.9758,
+    "lng": -123.0177,
+    "website": "https://meetgoodwill.org/",
+    "image": "https://source.unsplash.com/800x450/?bargain,bin"
+  },
+  {
     "name": "Blast Off Vintage",
-    "address": "860 High St NE, Salem, OR",
+    "address": "860 High St NE, Salem, OR 97301",
     "category": "Vintage",
     "lat": 44.9468,
     "lng": -123.0308,
-    "website": "",
+    "website": "https://www.blastoffvintage.com/",
     "image": "https://source.unsplash.com/800x450/?vintage,clothing"
   },
   {
-    "name": "Platos Closet",
-    "address": "3884 Center St NE, Salem, OR",
+    "name": "Then Again Classics",
+    "address": "233 Commercial St NE, Salem, OR 97301",
+    "category": "Vintage",
+    "lat": 44.9407,
+    "lng": -123.0388,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?retro,fashion"
+  },
+  {
+    "name": "Dark Wash Vintage",
+    "address": "189 Liberty St NE #209, Salem, OR 97301",
+    "category": "Vintage",
+    "lat": 44.9405,
+    "lng": -123.0386,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?denim,vintage"
+  },
+  {
+    "name": "Finders Keepers Unique Boutique",
+    "address": "153 Liberty St NE, Salem, OR 97301",
+    "category": "Vintage",
+    "lat": 44.9402,
+    "lng": -123.0388,
+    "website": "https://finderskeeperssalem.com/",
+    "image": "https://source.unsplash.com/800x450/?vendor,mall"
+  },
+  {
+    "name": "Plato's Closet Salem",
+    "address": "3884 Center St NE, Salem, OR 97301",
     "category": "Consignment",
     "lat": 44.9389,
     "lng": -122.9952,
-    "website": "",
-    "image": "https://source.unsplash.com/800x450/?consignment,fashion"
+    "website": "https://www.platoscloset.com/",
+    "image": "https://source.unsplash.com/800x450/?teen,fashion"
   },
   {
     "name": "Mother Goose Resale",
-    "address": "4815 Commercial St SE, Salem, OR",
+    "address": "4815 Commercial St SE, Salem, OR 97302",
     "category": "Kids",
     "lat": 44.8858,
     "lng": -123.0353,
     "website": "",
     "image": "https://source.unsplash.com/800x450/?kids,resale"
+  },
+  {
+    "name": "Rags to Riches Consignment",
+    "address": "835 Commercial St SE, Salem, OR 97301",
+    "category": "Consignment",
+    "lat": 44.9320,
+    "lng": -123.0382,
+    "website": "http://www.ragstorichessalem.com/",
+    "image": "https://source.unsplash.com/800x450/?upscale,boutique"
+  },
+  {
+    "name": "Mission Thrift (Union Gospel Mission)",
+    "address": "885 Commercial St NE, Salem, OR 97301",
+    "category": "Thrift",
+    "lat": 44.9472,
+    "lng": -123.0381,
+    "website": "https://www.ugmsalem.org/thrift",
+    "image": "https://source.unsplash.com/800x450/?donate,thrift"
+  },
+  {
+    "name": "St. Vincent de Paul - Salem",
+    "address": "3745 Portland Rd NE, Salem, OR 97301",
+    "category": "Thrift",
+    "lat": 44.9821,
+    "lng": -123.0124,
+    "website": "https://svdpsalem.org/",
+    "image": "https://source.unsplash.com/800x450/?charity,store"
+  },
+  {
+    "name": "Salem Habitat ReStore",
+    "address": "1320 Broadway St NE, Salem, OR 97301",
+    "category": "Home Goods",
+    "lat": 44.9520,
+    "lng": -123.0357,
+    "website": "https://www.salemhabitat.org/restore",
+    "image": "https://source.unsplash.com/800x450/?furniture,reuse"
+  },
+  {
+    "name": "Willamette Humane Society Thrift Store",
+    "address": "548 High St NE, Salem, OR 97301",
+    "category": "Thrift",
+    "lat": 44.9437,
+    "lng": -123.0376,
+    "website": "https://whs4pets.org/thrift-store/",
+    "image": "https://source.unsplash.com/800x450/?animal,charity"
+  },
+  {
+    "name": "AL Encore Furniture & Consignment",
+    "address": "1198 Commercial St SE, Salem, OR 97302",
+    "category": "Consignment",
+    "lat": 44.9286,
+    "lng": -123.0383,
+    "website": "https://www.assistanceleague.org/salem-keizer/",
+    "image": "https://source.unsplash.com/800x450/?furniture,consignment"
+  },
+  {
+    "name": "Furbish Salvage",
+    "address": "1075 Broadway St NE, Salem, OR 97301",
+    "category": "Vintage",
+    "lat": 44.9505,
+    "lng": -123.0364,
+    "website": "https://www.furbishsalvage.com/",
+    "image": "https://source.unsplash.com/800x450/?salvage,furniture"
+  },
+  {
+    "name": "Superthrift",
+    "address": "3060 Portland Rd NE, Salem, OR 97301",
+    "category": "Thrift",
+    "lat": 44.9757,
+    "lng": -123.0185,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?bargain"
+  },
+  {
+    "name": "The Maze",
+    "address": "1249 13th St SE, Salem, OR 97302",
+    "category": "Thrift",
+    "lat": 44.9286,
+    "lng": -123.0276,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?eclectic,store"
+  },
+  {
+    "name": "The Thrift Store - Keizer",
+    "address": "4150 River Rd N, Keizer, OR 97303",
+    "category": "Thrift",
+    "lat": 45.0007,
+    "lng": -123.0297,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?keizer,thrift"
+  },
+  {
+    "name": "Goodwill - Keizer",
+    "address": "5450 River Rd N, Keizer, OR 97303",
+    "category": "Thrift",
+    "lat": 45.0157,
+    "lng": -123.0282,
+    "website": "https://meetgoodwill.org/",
+    "image": "https://source.unsplash.com/800x450/?goodwill,keizer"
+  },
+  {
+    "name": "Boys & Girls Club Thrift - Keizer",
+    "address": "5210 River Rd N, Keizer, OR 97303",
+    "category": "Thrift",
+    "lat": 45.0123,
+    "lng": -123.0285,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?youth,charity"
+  },
+  {
+    "name": "Whimsy Wares Thrift & Crafting Boutique",
+    "address": "3170 Lancaster Dr NE, Salem, OR 97305",
+    "category": "Thrift",
+    "lat": 44.9692,
+    "lng": -123.0244,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?craft,boutique"
+  },
+  {
+    "name": "First Place Thrift",
+    "address": "1230 State St, Salem, OR 97301",
+    "category": "Thrift",
+    "lat": 44.9382,
+    "lng": -123.0298,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?thrift,downtown"
+  },
+  {
+    "name": "Salvation Army Family Store - Salem",
+    "address": "1865 Bill Frey Dr NE, Salem, OR 97301",
+    "category": "Thrift",
+    "lat": 44.9554,
+    "lng": -122.9986,
+    "website": "https://satruck.org/",
+    "image": "https://source.unsplash.com/800x450/?salvation,army"
+  },
+  {
+    "name": "Once Upon A Child - Salem",
+    "address": "3865 Center St NE, Salem, OR 97301",
+    "category": "Kids",
+    "lat": 44.9389,
+    "lng": -122.9963,
+    "website": "https://www.onceuponachild.com/",
+    "image": "https://source.unsplash.com/800x450/?children,clothing"
+  },
+  {
+    "name": "Clothes Mentor Salem",
+    "address": "831 Lancaster Dr NE, Salem, OR 97301",
+    "category": "Consignment",
+    "lat": 44.9472,
+    "lng": -123.0246,
+    "website": "https://www.clothesmentor.com/",
+    "image": "https://source.unsplash.com/800x450/?womens,fashion"
+  },
+  {
+    "name": "Junque in the Trunque",
+    "address": "1490 Broadway St NE, Salem, OR 97301",
+    "category": "Vintage",
+    "lat": 44.9537,
+    "lng": -123.0359,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?junk,treasures"
+  },
+  {
+    "name": "Hidden Gems Vintage Mall",
+    "address": "188 Liberty St NE, Salem, OR 97301",
+    "category": "Vintage",
+    "lat": 44.9403,
+    "lng": -123.0387,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?antique,mall"
+  },
+  {
+    "name": "Across the Street Vintage & Resale",
+    "address": "1109 Edgewater St NW, Salem, OR 97304",
+    "category": "Vintage",
+    "lat": 44.9457,
+    "lng": -123.0653,
+    "website": "https://acrossthestreetsalem.com/",
+    "image": "https://source.unsplash.com/800x450/?west,salem"
+  },
+  {
+    "name": "Salem Pawn & Jewelry",
+    "address": "3795 Portland Rd NE, Salem, OR 97301",
+    "category": "Pawn/Resale",
+    "lat": 44.9831,
+    "lng": -123.0122,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?pawn,shop"
+  },
+  {
+    "name": "Play It Again Sports - Salem",
+    "address": "831 Lancaster Dr NE, Salem, OR 97301",
+    "category": "Sports Resale",
+    "lat": 44.9471,
+    "lng": -123.0246,
+    "website": "https://www.playitagainsports.com/",
+    "image": "https://source.unsplash.com/800x450/?sports,used"
+  },
+  {
+    "name": "Half Price Books - Salem",
+    "address": "1311 Lancaster Dr NE, Salem, OR 97301",
+    "category": "Book Resale",
+    "lat": 44.9523,
+    "lng": -123.0242,
+    "website": "https://www.hpb.com/",
+    "image": "https://source.unsplash.com/800x450/?used,books"
+  },
+  {
+    "name": "The Book Bin - Salem",
+    "address": "450 Court St NE, Salem, OR 97301",
+    "category": "Book Resale",
+    "lat": 44.9405,
+    "lng": -123.0359,
+    "website": "https://bookbin.com/",
+    "image": "https://source.unsplash.com/800x450/?bookstore,used"
+  },
+  {
+    "name": "Escape Fiction",
+    "address": "3240 Triangle Dr SE, Salem, OR 97302",
+    "category": "Book Resale",
+    "lat": 44.9038,
+    "lng": -123.0247,
+    "website": "https://escapefiction.com/",
+    "image": "https://source.unsplash.com/800x450/?bookshop"
+  },
+  {
+    "name": "Stash Vintage & Curiosities",
+    "address": "240 Liberty St NE, Salem, OR 97301",
+    "category": "Vintage",
+    "lat": 44.9408,
+    "lng": -123.0386,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?curio,shop"
+  },
+  {
+    "name": "Habitat for Humanity ReStore - South Salem",
+    "address": "1480 12th St SE, Salem, OR 97302",
+    "category": "Home Goods",
+    "lat": 44.9258,
+    "lng": -123.0286,
+    "website": "https://www.salemhabitat.org/restore",
+    "image": "https://source.unsplash.com/800x450/?restore,building"
+  },
+  {
+    "name": "Style Encore Salem",
+    "address": "3884 Center St NE, Salem, OR 97301",
+    "category": "Consignment",
+    "lat": 44.9390,
+    "lng": -122.9954,
+    "website": "https://www.styleencore.com/",
+    "image": "https://source.unsplash.com/800x450/?style,resale"
+  },
+  {
+    "name": "Treasure Trove Antiques & Vintage",
+    "address": "1110 Broadway St NE, Salem, OR 97301",
+    "category": "Vintage",
+    "lat": 44.9512,
+    "lng": -123.0361,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?antiques,treasure"
   }
 ]
