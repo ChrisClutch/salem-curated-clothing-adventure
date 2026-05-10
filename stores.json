@@ -1,1 +1,47 @@
-[{"name":"Goodwill - Lancaster","address":"3535 Lancaster Dr NE, Salem, OR","category":"Thrift","lat":44.9729,"lng":-123.0241,"website":"https://meetgoodwill.org/","image":"https://source.unsplash.com/800x450/?thrift,store"}]
+[
+  {
+    "name": "Goodwill - Lancaster",
+    "address": "3535 Lancaster Dr NE, Salem, OR",
+    "category": "Thrift",
+    "lat": 44.9729,
+    "lng": -123.0241,
+    "website": "https://meetgoodwill.org/",
+    "image": "https://source.unsplash.com/800x450/?thrift,store"
+  },
+  {
+    "name": "Goodwill - West Salem",
+    "address": "585 Edgewater St NW, Salem, OR",
+    "category": "Thrift",
+    "lat": 44.9443,
+    "lng": -123.0602,
+    "website": "https://meetgoodwill.org/",
+    "image": "https://source.unsplash.com/800x450/?thrift,shop"
+  },
+  {
+    "name": "Blast Off Vintage",
+    "address": "860 High St NE, Salem, OR",
+    "category": "Vintage",
+    "lat": 44.9468,
+    "lng": -123.0308,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?vintage,clothing"
+  },
+  {
+    "name": "Platos Closet",
+    "address": "3884 Center St NE, Salem, OR",
+    "category": "Consignment",
+    "lat": 44.9389,
+    "lng": -122.9952,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?consignment,fashion"
+  },
+  {
+    "name": "Mother Goose Resale",
+    "address": "4815 Commercial St SE, Salem, OR",
+    "category": "Kids",
+    "lat": 44.8858,
+    "lng": -123.0353,
+    "website": "",
+    "image": "https://source.unsplash.com/800x450/?kids,resale"
+  }
+]
