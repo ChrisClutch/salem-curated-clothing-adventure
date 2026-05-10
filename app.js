@@ -1,4 +1,14 @@
-const fallbackStores = [];
+const fallbackStores = [
+  {
+    name: "Goodwill - Lancaster",
+    address: "3535 Lancaster Dr NE, Salem, OR",
+    website: "https://meetgoodwill.org/",
+    image: "https://source.unsplash.com/800x450/?thrift,store",
+    lat: 44.9729,
+    lng: -123.0241,
+    category: "Thrift"
+  }
+];
 
 async function loadStores() {
   const response = await fetch("stores.json", { cache: "no-store" });
