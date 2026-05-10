@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Salem Thrift Trek</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Salem Thrift Trek</h1>
+    <p>Map your thrift adventure in Salem, Oregon.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <button id="locateBtn">Use my location</button>
+      <select id="preferenceSelect">
+        <option value="closest">Preference: Closest stores</option>
+        <option value="charity">Preference: Charity thrifts</option>
+        <option value="antiques">Preference: Antiques/collectibles</option>
+      </select>
+      <button id="tourBtn">Custom Thrift Tour</button>
+      <button id="curatedBtn">Curated Thrift Tour!</button>
+      <span id="status">Select “Use my location” to see closest stores and build your tour.</span>
+    </section>
+
+    <section class="layout">
+      <div id="map"></div>
+      <aside>
+        <h2>Closest thrift & resale stores</h2>
+        <ul id="storeList"></ul>
+      </aside>
+    </section>
+  </main>
+
+  <template id="storeCardTemplate">
+    <li class="store-card">
+      <img alt="Store location" class="store-photo" />
+      <div>
+        <h3></h3>
+        <p class="address"></p>
+        <p class="distance"></p>
+        <div class="links">
+          <a class="website" target="_blank" rel="noopener noreferrer">Website</a>
+          <a class="directions" target="_blank" rel="noopener noreferrer">Directions</a>
+          <a class="streetview" target="_blank" rel="noopener noreferrer">Street View</a>
+        </div>
+      </div>
+    </li>
+  </template>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
