@@ -1,0 +1,132 @@
+Salem Thrift Trek — Image Enrichment Report
+==================================================
+
+Summary:
+  og_image: 3
+  twitter_image: 0
+  first_img: 16
+  picsum_fallback: 21
+  TOTAL: 40
+
+Details:
+--------------------------------------------------
+Goodwill - Lancaster
+  source: first_img
+  url:    https://meetgoodwill.org/wp-content/uploads/2022/05/GICW-Logo-NEW.png
+Goodwill - West Salem
+  source: first_img
+  url:    https://meetgoodwill.org/wp-content/uploads/2022/05/GICW-Logo-NEW.png
+Goodwill - South Commercial
+  source: first_img
+  url:    https://meetgoodwill.org/wp-content/uploads/2022/05/GICW-Logo-NEW.png
+Goodwill - Portland Rd
+  source: first_img
+  url:    https://meetgoodwill.org/wp-content/uploads/2022/05/GICW-Logo-NEW.png
+Goodwill Outlet (Bins)
+  source: first_img
+  url:    https://meetgoodwill.org/wp-content/uploads/2022/05/GICW-Logo-NEW.png
+Blast Off Vintage
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/8efbe77cb689/800/450
+Then Again Classics
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/0f93a1f347fb/800/450
+Dark Wash Vintage
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/b9396945e06d/800/450
+Finders Keepers Unique Boutique
+  source: first_img
+  url:    https://www.facebook.com/tr?id=1018570588242015&ev=PageView&noscript=1
+Plato's Closet Salem
+  source: first_img
+  url:    https://cdn11.bigcommerce.com/s-1lq5y96rz5/images/stencil/176x51/platosclosetlogo_1700496806__49563_1704892310.original.png
+Mother Goose Resale
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/82679255e814/800/450
+Rags to Riches Consignment
+  source: first_img
+  url:    http://www.ragstorichessalem.com/images/card.png
+Mission Thrift (Union Gospel Mission)
+  source: og_image
+  url:    http://static1.squarespace.com/static/645a9c0db50b510e8db3a6b2/t/688147bb2a22961e0316b942/1753302971413/UGM_MissionStore_021.jpeg?format=1500w
+St. Vincent de Paul - Salem
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/f81925d7054f/800/450
+Salem Habitat ReStore
+  source: first_img
+  url:    https://salemhabitat.org/wp-content/uploads/2020/07/MidWilliametteValley_Hz_Black.svg
+Willamette Humane Society Thrift Store
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/9e04320392e5/800/450
+AL Encore Furniture & Consignment
+  source: first_img
+  url:    https://www.assistanceleague.org/salem-keizer/wp-content/uploads/sites/29/2016/02/logo-salem.gif
+Furbish Salvage
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/8ece35974653/800/450
+Superthrift
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/a07ef12c2c8d/800/450
+The Maze
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/2e702ec90ed0/800/450
+The Thrift Store - Keizer
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/83435c981d36/800/450
+Goodwill - Keizer
+  source: first_img
+  url:    https://meetgoodwill.org/wp-content/uploads/2022/05/GICW-Logo-NEW.png
+Boys & Girls Club Thrift - Keizer
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/573b19a7b1d4/800/450
+Whimsy Wares Thrift & Crafting Boutique
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/0c98c54d2712/800/450
+First Place Thrift
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/092b62b494fa/800/450
+Salvation Army Family Store - Salem
+  source: first_img
+  url:    https://www.facebook.com/tr?id=1685804155010490&ev=PageView&noscript=1
+Once Upon A Child - Salem
+  source: first_img
+  url:    https://cdn11.bigcommerce.com/s-jyncwe2uw4/images/stencil/259x34/ouac_1706303830__06067.original_1708083930.original.png
+Clothes Mentor Salem
+  source: og_image
+  url:    http://clothesmentor.com/cdn/shop/files/Fall_ClothesMentor_ShopOnline_bf6137e1-379d-4e19-bb6c-7b96888e6918.jpg?v=1664891185
+Junque in the Trunque
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/10de996e7058/800/450
+Hidden Gems Vintage Mall
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/fba516b39a66/800/450
+Across the Street Vintage & Resale
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/65ada6f41fe9/800/450
+Salem Pawn & Jewelry
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/266705ddf36a/800/450
+Play It Again Sports - Salem
+  source: first_img
+  url:    https://cdn11.bigcommerce.com/s-8yxoh6lp1a/images/stencil/300x25/logo_1714492862__75779.original_1719317855.original.png
+Half Price Books - Salem
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/d634e69899f7/800/450
+The Book Bin - Salem
+  source: og_image
+  url:    https://bookbin.com/sites/default/files/2023-03/bin-lino-logo-horiz-fullcol.jpg
+Escape Fiction
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/0cd6445ec542/800/450
+Stash Vintage & Curiosities
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/eba32c2887e4/800/450
+Habitat for Humanity ReStore - South Salem
+  source: first_img
+  url:    https://salemhabitat.org/wp-content/uploads/2020/07/MidWilliametteValley_Hz_Black.svg
+Style Encore Salem
+  source: first_img
+  url:    https://cdn11.bigcommerce.com/s-gzh3t3gdf1/images/stencil/244x27/logo_1722000165__62349.original.png
+Treasure Trove Antiques & Vintage
+  source: picsum_fallback
+  url:    https://picsum.photos/seed/57a17fe8cf64/800/450
